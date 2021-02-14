@@ -31,11 +31,12 @@ inject.exe [PID Notepad.exe]
 Ex:
 inject.exe 12345
 ```
-Si tot ha anat bé, al Kali tenim una shell del windows amb els permisos d'usuari que té el procés del Notepad.exe a l'estació Windows. I a l'arbre de processos, un fil penjant del **Notepad**
+Si tot ha anat bé, al Kali tenim una shell del windows amb els permisos d'usuari que té el procés del Notepad.exe a l'estació Windows. I a l'arbre de processos, un fil penjant del **Notepad.exe**
 
 A partir d'aquí imaginació (no vull donar idees). És un pas necessari si et vols iniciar en el Hacking Ètic.
 
 **La cançó** (Sempre escolto música quan escric, programo, penso en solucions...)
+
 https://www.youtube.com/watch?v=bwNzGT-UX7c
 
 
