@@ -2,7 +2,7 @@
 Simple windows process code injection
 
 ## POC
-El repte està en injectar un tros de codi executable dins un procés que ja es troba en execució. D'aquesta manera, el codi queda ocultat dins l'arbre de processos, com un fil d'execució dins un procés conegut, com per exemple, explorer.exe, notepad.exe, calc.exe, etc. 
+El repte està en injectar un tros de codi executable dins un procés que ja es troba en execució. D'aquesta manera, el codi queda ocultat dins l'arbre de processos, com un fil d'execució dins un procés conegut, com per exemple, explorer.exe, notepad.exe, calc.exe, etc. El mateix que explico jo aquí, està explicat en molts llocs a internet.
 
 ## Descripció
 En el repositori trobem una solució en c++ que mitjanant l' API de windows injecta codi en un procés que rep per la línia de comandes. El codi a injectar es troba en una variable **shellcode** en format de Bytecode. En l'exemple he utilitzat un petit codi que executa una shell inversa (reverse shell) de 6u bits (x64). Aquest codi, pot ser qualsevol cosa que se’ns passi pel cap. Però, ha de ser petit, quan més petit millor, ja que s'injecta en la memòria del procés. Podem trobar molt codi d'exemple per internet, un bon lloc és
