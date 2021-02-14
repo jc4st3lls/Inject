@@ -33,6 +33,6 @@
 
 # Directories
 .vs/
-.Debug/
-.x64/
-.x86/
+Debug/
+x64/
+x86/
