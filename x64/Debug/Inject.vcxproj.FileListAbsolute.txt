@@ -1,2 +1,0 @@
-C:\Team\jc4st3lls\Inject\x64\Debug\Inject.exe
-C:\Team\jc4st3lls\Inject\x64\Debug\Inject.pdb
