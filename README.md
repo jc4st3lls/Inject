@@ -40,12 +40,6 @@ A partir d'aquí imaginació (no vull donar idees). És un pas necessari si et v
 https://www.youtube.com/watch?v=bwNzGT-UX7c
 
 
-Donacions
-
-BTC = bc1q33wmuc0lcwh4krchfmxrt4jak3v628z658f85j
-
-TRX = TRdxjgLv4nr8GYwsdXkUv4ZwCCTvfMqgnS
-
-ETH = 0x3582cf65c158b23bbbaee3e3a3158ce4b5d99978
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jcastellsgH)
 
 :_)
